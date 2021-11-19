@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/medication-dose-plotter/static/css/main.bed9c162.chunk.css",
+    "main.js": "/medication-dose-plotter/static/js/main.07567f8c.chunk.js",
+    "main.js.map": "/medication-dose-plotter/static/js/main.07567f8c.chunk.js.map",
+    "runtime-main.js": "/medication-dose-plotter/static/js/runtime-main.4185b521.js",
+    "runtime-main.js.map": "/medication-dose-plotter/static/js/runtime-main.4185b521.js.map",
+    "static/js/2.efd64228.chunk.js": "/medication-dose-plotter/static/js/2.efd64228.chunk.js",
+    "static/js/2.efd64228.chunk.js.map": "/medication-dose-plotter/static/js/2.efd64228.chunk.js.map",
+    "index.html": "/medication-dose-plotter/index.html",
+    "static/css/main.bed9c162.chunk.css.map": "/medication-dose-plotter/static/css/main.bed9c162.chunk.css.map",
+    "static/js/2.efd64228.chunk.js.LICENSE.txt": "/medication-dose-plotter/static/js/2.efd64228.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4185b521.js",
+    "static/js/2.efd64228.chunk.js",
+    "static/css/main.bed9c162.chunk.css",
+    "static/js/main.07567f8c.chunk.js"
+  ]
+}
